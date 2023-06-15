@@ -1,2 +1,2 @@
 # DockerWithMongoDb
-Leran docker with node js and mongodb
+Learn docker with node js and mongodb
